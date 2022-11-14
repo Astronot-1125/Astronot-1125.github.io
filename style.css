@@ -1,0 +1,9 @@
+#canvas {
+    background-color: black;
+    background-image: url('latar.png');
+    background-repeat: no-repeat;
+}
+
+body {
+    margin: 0;
+}
